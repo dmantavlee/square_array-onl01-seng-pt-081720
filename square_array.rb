@@ -1,3 +1,10 @@
 def square_array(array)
-  # your code here
+numbers = []
+  array.each do |element|
+    puts [] << element ** 2
+
+  end
+    
+    
+
 end
