@@ -4,7 +4,7 @@ numbers = []
     puts [] << element ** 2
 
   end
-    
-    
+
+
 
 end
